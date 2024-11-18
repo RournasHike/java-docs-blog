@@ -8,9 +8,10 @@
 - 开源成就美好
 - 书山有路勤为径
 
-[GitHub](https://github.com/bluecusliyou)
-[Gitee](https://gitee.com/bluecusliyou)
-[Get Started](first/first)
+[GitHub](https://github.com/RournasHike) |
+[Gitee](https://gitee.com/RournasHike) | 
+[Get Started](README.md)
+
 
 <!-- 背景图片 -->
 <!-- ![bg](media/bg.png) -->
