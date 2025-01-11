@@ -31,12 +31,22 @@
     - [设计模式之观察者模式](docs/design-pattern/设计模式之观察者模式.md)
     - [设计模式之责任链模式](docs/design-pattern/设计模式之责任链模式.md)
 
+- springboot
+    - [springboot启动原理](docs/springboot/springboot启动原理.md)
+    - [springboot配置多数据源](docs/springboot/springboot配置多数据源.md)
+
+- springcloud
+    - [Spring Cloud Gateway](docs/springcloud/SpringCloudGateway.md)
+
 - Java8
     - [Java8新特性](docs/java/Java8新特性.md) 
 - Docker
-    - [Docker安装ELK](docs/docker/Docker安装ELK.md) 
+    - [Docker安装与配置](docs/docker/Docker安装与配置.md) 
+    - [Docker安装ELK](docs/docker/Docker安装ELK.md)
     - [Docker安装RabbitMQ](docs/docker/Docker安装RabbitMQ.md) 
     - [Docker安装Seata](docs/docker/Docker安装Seata.md) 
+    - [Docker安装Redis](docs/docker/Docker安装Redis.md) 
+    - [Docker安装Minio](docs/docker/Docker安装Minio.md) 
 
 - 单元测试
     - [单元测试框架介绍](docs/unit_test/单元测试框架介绍.md) 
@@ -51,4 +61,3 @@
     - [DDD领域驱动设计实践](docs/ddd/DDD领域驱动设计实践.md)
     - [DDD与微服务](docs/ddd/DDD与微服务.md)
     - [DDD脚手架](docs/ddd/DDD领域驱动设计实践.md)
-
