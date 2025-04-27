@@ -100,15 +100,43 @@ sudo systemctl enable docker
             "https://do.nark.eu.org",
             "https://dockerpull.com",
             "https://dockerproxy.cn",
-            "https://docker.awsl9527.cn"
+            "https://docker.awsl9527.cn",
+            "https://docker.rainbond.cc",
+            "https://registry.docker-cn.com",
+            "https://dockerproxy.com",
+            "https://hub-mirrors.c.163.com",
+            "https://hub.uuuadc.top",
+            "https://dockerhub.icu",
+            "https://dockerhub.jobcher.com",
+            "https://docker.anyhub.us.kg",
+            "https://docker.cykl.me",
+            "https://docker.awsl9527.cn",
+            "https://mirrors.baidubce.com"
       ]
 }
 ```
 
 ```json
-{
-"registry-mirrors": ["https://docker.m.daocloud.io"]
-}
+镜像地址：
+"https://docker.211678.top",
+"https://docker.1panel.live",
+"https://hub.rat.dev",
+"https://docker.m.daocloud.io",
+"https://do.nark.eu.org",
+"https://dockerpull.com",
+"https://dockerproxy.cn",
+"https://docker.awsl9527.cn",
+"https://docker.rainbond.cc",
+"https://registry.docker-cn.com",
+"https://dockerproxy.com",
+"https://hub-mirrors.c.163.com",
+"https://hub.uuuadc.top",
+"https://dockerhub.icu",
+"https://dockerhub.jobcher.com",
+"https://docker.anyhub.us.kg",
+"https://docker.cykl.me",
+"https://docker.awsl9527.cn",
+"https://mirrors.baidubce.com"
  
 ```
 
